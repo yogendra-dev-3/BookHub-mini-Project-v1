@@ -1,0 +1,17 @@
+.active-search-button {
+  border-radius: 25px;
+  border: 1px solid #0284c7;
+  padding: 4px 8px;
+  color: #f5f7fa;
+  margin-top: 10px;
+  background: #0284c7;
+}
+
+.search-button {
+  border-radius: 25px;
+  border: 1px solid #0284c7;
+  padding: 4px 8px;
+  color: #0284c7;
+  margin-top: 10px;
+  background: #f5f7fa;
+}
